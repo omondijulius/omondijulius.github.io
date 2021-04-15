@@ -1,0 +1,60 @@
+body
+{
+	background-color: black;
+}
+.carousel-inner img
+{
+	width: 100%;
+	height: 500px;
+}
+.panel-heading img
+{
+	width: 100%;
+	height: 100%;
+}
+.panel-default .panel-heading
+{
+	background-color: black;
+}
+.panel-default .panel-footer
+{
+	background-color: black;
+}
+.panel-default .panel-footer button
+{
+	width: 100%;
+	background-color: black;
+	color: white;
+	border: 0;
+}
+.g      
+{
+	height: 200px;
+	width: 200px;
+}
+.b
+{
+	height: 290px;
+	width: 49%;
+	margin-bottom: 8px;
+}
+.footer
+{
+	background-color: grey;
+	color: black;
+}
+.foot
+{
+	height: 200px;
+	width: 200px;
+}
+.panel-heading .mid 
+{
+	width: 100%;
+	height: 100%px;
+}
+.vidGallery video
+{
+	width:100%;
+	height: 100%;
+}
